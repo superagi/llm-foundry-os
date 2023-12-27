@@ -1,5 +1,5 @@
-data_local: ./my-copy-c4
-data_remote: s3://composer-test-ayush/red/
+data_local: ./my-copy-red-2048
+data_remote: s3://mcli-sukrit/data/red-pyjama-sample-1b-seq-2048/
 tokenizer_name: meta-llama/Llama-2-7b-hf
 max_seq_len: 2048
 global_seed: 42
